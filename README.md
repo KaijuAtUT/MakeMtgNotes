@@ -1,4 +1,4 @@
-# MakeMtgNotes_GAS
+# 議事録作成・転送用 GAS コード
 
 ## これはなに
 
