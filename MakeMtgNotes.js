@@ -1,3 +1,5 @@
+// Google ドキュメントでできた議事録テンプレを複製して議事録を作成し、Slack に転送する GAS コード
+
 function copyMeetingNotesTemplate() {
   const templateId = ""; // テンプレのIDを入れる
   const SLACK_WEBHOOK_URL = ""; // Slackに転送するためのwebhook URLを入れる
